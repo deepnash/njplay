@@ -1,0 +1,23 @@
+{
+  "name": "njplay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepnash/njplay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepnash/njplay/issues"
+  },
+  "homepage": "https://github.com/deepnash/njplay#readme",
+  "dependencies": {
+    "zeromq": "4.2.1"
+  }
+}
